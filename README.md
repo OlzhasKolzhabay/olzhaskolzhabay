@@ -6,15 +6,19 @@
 
 Aspiring AI Engineer passionate about Machine Learning, LLMs and AI Engineering.
 
-## Tech Stack
+## 🛠 Tech Stack
 
-- Python
-- SQL
-- PyTorch
-- LangChain
-- LangGraph
-- FastAPI
-- Docker
+**Languages:** Python, SQL
+
+**AI/ML:** PyTorch, Scikit-learn, Transformers, LangChain, LangGraph, RAG
+
+**Data:** Pandas, NumPy, Power BI
+
+**Backend:** FastAPI
+
+**Databases:** PostgreSQL, MSSQL, ChromaDB, FAISS
+
+**Tools:** Git, Docker, Ollama
 
 ## Featured Projects
 
